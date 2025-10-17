@@ -38,6 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 - first I added everything that needed to be added to the HTML file , Creating div and classes where it is needed 
+- I moved to the css code and stated grouping things together placign borders around things to get a better scope of where the padding and margins are. 
+- 
 
 ### Built with
 
