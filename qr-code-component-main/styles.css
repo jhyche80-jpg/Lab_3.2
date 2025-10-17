@@ -28,6 +28,12 @@
 
 }
 
+.p {
+    font-size: 15px;
+    font-weight: 400x;
+
+}
+
 .main {
     display: flex;
     flex-direction: column;
@@ -35,5 +41,5 @@
     padding: 16px 16px 40px 16px;
     border-radius: 10px;
     text-align: center;
-
+    font-family: outfit, sans-serif;
 }
