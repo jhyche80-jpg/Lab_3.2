@@ -37,9 +37,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+## Challenge one
 - first I added everything that needed to be added to the HTML file , Creating div and classes where it is needed 
 - I moved to the css code and stated grouping things together placign borders around things to get a better scope of where the padding and margins are. 
-- 
+- After realizing that there was a problem in my HTML i fixed it and then the css code worked as it was supposed to
+-commited the final code 
+## challenge 2
 
 ### Built with
 
