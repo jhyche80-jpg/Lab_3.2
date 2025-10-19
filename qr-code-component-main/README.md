@@ -2,75 +2,62 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
-### Screenshot
 ## My process
+#NOTE THIS WILL CONTAIN BOTH CHALLENGES THAT I DID !!
 ## Challenge one
 - first I added everything that needed to be added to the HTML file , Creating div and classes where it is needed 
 - I moved to the css code and stated grouping things together placign borders around things to get a better scope of where the padding and margins are. 
 - After realizing that there was a problem in my HTML i fixed it and then the css code worked as it was supposed to
 -commited the final code 
 ## challenge 2
-
+- like the first challenge I added to the html code to properly label the componets inside it 
+- the next thing I did was add divs and classes and disconnect the styles and changed it to a css file 
+- I first made the box for the content 
+- then i made the flex box around the text , I also adjusted the size of the img ands
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Figma 
 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+In this lab I learned more about how to move things around on the screen and made more progress  in learning how to use the '@media' coding to make it interactive with cellphones. 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I want to continue developing and learn how to make a few pages and link them together  like a real website.  
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- https://www.figma.com/design/annwgdwBkMJ2XM1O1u6SE8/blog-preview-card?node-id=28-3&t=orhBh0gDkbnYltts-0
+- https://www.w3schools.com/css/css3_shadows_box.asp
+
+
+
+
+#Reflectiion
+
+1. How did using Figma designs as references affect your coding process?
+
+  It made it easier to do hard coding and making the width and the height. It also heloed me make specific color choices and visualize that really needs to be done. This is something I will do again. 
+
+2. What challenges did you encounter when aligning your code with the design specifications?
+
+  A huge challenge was creating a vision from scratch. Honstley starting it wass the biggest problems as I had ideas but didnt know where to start . I will need to make a step by step process that highlights things to do based on importance 
+
+3. How can the feedback and community resources on Frontend Mentor help you improve as a developer?
+  The challenges will make coding easier as i am a hands on learner and by doing things over and over again , I can learn everything.  
 
 
 
