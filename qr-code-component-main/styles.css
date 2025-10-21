@@ -7,39 +7,23 @@
     color: hsl(228, 45%, 44%);
 }
 
-.body {
-    background: hsl(212, 45%, 89%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
+#body {
+    background: hsl(216, 16%, 37%);
 }
 
-.image {
-    height: 288px;
-    width: 288px;
-    border-radius: 10px;
-}
 
-.info {
-    width: 288px;
-    height: 131px;
+#info {
+    
+    background: white;
 
 }
-
 .p {
     font-size: 15px;
     font-weight: 400x;
 
 }
 
-.main {
-    display: flex;
-    flex-direction: column;
-    background: white;
-    padding: 16px 16px 40px 16px;
-    border-radius: 10px;
-    text-align: center;
+#main {
+  background: white;
     font-family: outfit, sans-serif;
 }
